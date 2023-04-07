@@ -1,0 +1,8 @@
+*-lock.json
+
+# Dependency Modules
+node_modules
+
+# ignore output and input files
+uploads/*
+outputs/*
