@@ -6,3 +6,7 @@ node_modules
 # ignore output and input files
 uploads/*
 outputs/*
+
+# exception to the rule
+!outputs/.gitkeep 
+!uploads/.gitkeep 
